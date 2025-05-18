@@ -20,6 +20,10 @@ Model Initialization
 Fine-Tuning Setup: Implement parameter-efficient fine-tuning techniques to adapt the model without overwhelming computational resources.
 Model Training: Train the model on the prepared dataset to enhance its question-answering capabilities in the healthcare domain.
 Evaluation: Test the fine-tuned model by generating answers to sample questions and evaluating its performance.
+
+
+
+
 **Dataset Overview**
 
 
